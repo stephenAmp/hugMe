@@ -3,3 +3,4 @@ fastapi
 alembic
 uvicorn~=0.34.0
 pydantic
+google-genai~=1.5.0
